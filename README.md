@@ -88,7 +88,7 @@ When a patient replies to their reminder, an AI Agent reads the message and clas
 
 ## Status
 
-This is a working prototype built as a learning project. Workflow B currently uses a simulated reply trigger (Manual Trigger with manually entered test data) in place of a live SMS/email reply integration — a real deployment would replace this trigger with a webhook connected to an actual messaging service, without needing to change the AI classification or sheet-update logic downstream.
+This is a working prototype built as a learning project. Workflow B currently uses a simulated reply trigger (Manual Trigger with manually entered test data) in place of a live SMS/email reply integration — a real deployment would replace this trigger with a webhook connected to an actual messaging service, without needing to change the AI classification or sheet-update logic downstream. But AI agent may be fed with correct data and JSON keys when the actual webhook is connected and it is necassary otherwise AI agent will not behave as expected.
 
 ---
 
