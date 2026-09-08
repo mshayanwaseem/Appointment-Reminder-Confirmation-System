@@ -58,7 +58,7 @@ When a patient replies to their reminder, an AI Agent reads the message and clas
 
 - **n8n** (workflow automation)
 - **Google Sheets** (appointment data store and status tracker)
-- **Google Gemini** (AI Agent's language model)
+- **Anthropic AI** (AI Agent's language model)
 - **Gmail** (reminder delivery)
 
 ---
